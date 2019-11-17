@@ -1,2 +1,2 @@
 # cprules
-CP Rules
+Auto update rules suri for CMC Sensor

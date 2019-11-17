@@ -1,0 +1,5 @@
+[rules_path]
+rules_path = "/home/aishee/Documents/testtules"
+path_tmp = "/tmp"
+rule_url = "https://is.muni.cz/th/422182/fi_b/thesis.pdf"
+rule_exists = "/tmp/surirules.zip"
