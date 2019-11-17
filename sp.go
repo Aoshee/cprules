@@ -13,9 +13,6 @@ func main() {
 	rule_url := rulesConfig.Get("rule_url").(string)
 	rule_exists := rulesConfig.Get("rule_exists").(string)
 	fmt.Println(rule_url)
-	if mtf.fileExists(rule_exists) {
-		fmt.Printf(format)
-	}
 	current_time := time.Now().Local()
 	fmt.Println("The Current time is ", current_time.Format("2006-01-02"))
 
